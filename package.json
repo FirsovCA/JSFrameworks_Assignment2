@@ -1,0 +1,20 @@
+{
+  "name": "jsframeworks_assignment2",
+  "version": "1.0.0",
+  "description": "Lab-Assignment#2 Group 8",
+  "homepage": "https://github.com/FirsovCA/JSFrameworks_Assignment2#readme",
+  "bugs": {
+    "url": "https://github.com/FirsovCA/JSFrameworks_Assignment2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FirsovCA/JSFrameworks_Assignment2.git"
+  },
+  "license": "ISC",
+  "author": "Sergei Firsov, Luigi Jose Lauron, Fredy Sanchez Granciano",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
